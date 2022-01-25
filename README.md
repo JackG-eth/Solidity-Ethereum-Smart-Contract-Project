@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# This is a simple demonstration on smart contracts on a ETH Test net
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project lets the user add a message to the blockchain with the small chance of winning some ethereum. All other users can see these messages
 
 Try running some of the following tasks:
 
