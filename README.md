@@ -1,4 +1,4 @@
-# This is a simple demonstration on smart contracts on a ETH Test net
+# Smart Contract Project
 
 This project lets the user add a message to the blockchain with the small chance of winning some ethereum. All other users can see these messages
 
